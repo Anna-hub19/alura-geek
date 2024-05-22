@@ -1,0 +1,8 @@
+{
+    "produtos": [
+      {
+        "nome": "Stormtrooper",
+        "valor": "60",
+        "imagem": "./imagem/unsplash_6FDXGY9J6y4.svg"
+      }
+    ]}
